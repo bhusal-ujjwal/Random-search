@@ -1,6 +1,5 @@
 # Random-search
-Implement Random search algorithm. Implementation could be done in either Mathematica or Python.
-Test it using test functions from Task 1.
+Implement Random search algorithm. Implementation done in Python.
 
 Your algorithm must have these inputs:
 Test function
